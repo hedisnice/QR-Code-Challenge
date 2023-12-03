@@ -51,7 +51,7 @@ img {
 
 Learned how to center a div with marging, managed to understand to use the auto in margin i need to give some width to the container first.
 
-````css
+``````css
 .white-container {
   width: 300px;
   margin: 150px auto;
@@ -60,28 +60,11 @@ Learned how to center a div with marging, managed to understand to use the auto 
   box-shadow: 12px 12px 70px #a5a5a5;
 }
 
-And
-  finally
-  learned
-  about
-  padding
-  to
-  have
-  some
-  space
-  between
-  the
-  image
-  and
-  the
-  white
-  container.
-  ```css
-  .content-container {
+`````css .content-container {
   padding: 15px;
   text-align: center;
 }
-````
+``````
 
 ### Continued development
 
